@@ -1,0 +1,15 @@
+if:swimforward/false
+if:action(w)
+if:swimfoward/true
+
+if:swimright/false
+if:action(d)
+if:swimright/true
+
+if:swimleft/false
+if:action(a)
+if:swimleft/true
+
+if:swimback/false
+if:action(s)
+if:swimback/true
